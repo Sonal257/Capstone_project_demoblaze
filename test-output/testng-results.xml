@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="13" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-06T20:57:45 IST" name="All Test Suite" finished-at="2025-09-06T20:59:31 IST" duration-ms="106348">
+    <groups>
+    </groups>
+    <test started-at="2025-09-06T20:57:45 IST" name="D:/004_Projects/Selenium/IntelliJ IDEA/Selenium_Maven_demoblaze-SandBox_001" finished-at="2025-09-06T20:59:31 IST" duration-ms="106348">
+      <class name="org.example.testcases.HomepageExplorer">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.testcases.HomepageExplorer@609cd4d8]" started-at="2025-09-06T20:58:43 IST" name="beforeMethod" finished-at="2025-09-06T20:58:45 IST" duration-ms="2389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Categories()[pri:0, instance:org.example.testcases.HomepageExplorer@609cd4d8]" started-at="2025-09-06T20:58:45 IST" name="Categories" finished-at="2025-09-06T20:58:49 IST" duration-ms="3508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Categories -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.example.testcases.HomepageExplorer@609cd4d8]" started-at="2025-09-06T20:58:49 IST" name="afterMethod" finished-at="2025-09-06T20:58:49 IST" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.testcases.HomepageExplorer@609cd4d8]" started-at="2025-09-06T20:58:49 IST" name="beforeMethod" finished-at="2025-09-06T20:58:51 IST" duration-ms="2407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="SlideRightAndLeftArrow()[pri:0, instance:org.example.testcases.HomepageExplorer@609cd4d8]" started-at="2025-09-06T20:58:51 IST" name="SlideRightAndLeftArrow" finished-at="2025-09-06T20:58:55 IST" duration-ms="4362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SlideRightAndLeftArrow -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.example.testcases.HomepageExplorer@609cd4d8]" started-at="2025-09-06T20:58:55 IST" name="afterMethod" finished-at="2025-09-06T20:58:56 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- org.example.testcases.HomepageExplorer -->
+      <class name="org.example.testcases.PDP">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.testcases.PDP@17f7cd29]" started-at="2025-09-06T20:58:56 IST" name="beforeMethod" finished-at="2025-09-06T20:58:57 IST" duration-ms="1741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="aSUSFullHDPDP()[pri:0, instance:org.example.testcases.PDP@17f7cd29]" started-at="2025-09-06T20:58:57 IST" name="aSUSFullHDPDP" finished-at="2025-09-06T20:59:01 IST" duration-ms="3546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aSUSFullHDPDP -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.example.testcases.PDP@17f7cd29]" started-at="2025-09-06T20:59:01 IST" name="afterMethod" finished-at="2025-09-06T20:59:01 IST" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.testcases.PDP@17f7cd29]" started-at="2025-09-06T20:59:01 IST" name="beforeMethod" finished-at="2025-09-06T20:59:03 IST" duration-ms="2226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="macBookProPDP()[pri:0, instance:org.example.testcases.PDP@17f7cd29]" started-at="2025-09-06T20:59:03 IST" name="macBookProPDP" finished-at="2025-09-06T20:59:07 IST" duration-ms="3593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- macBookProPDP -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.example.testcases.PDP@17f7cd29]" started-at="2025-09-06T20:59:07 IST" name="afterMethod" finished-at="2025-09-06T20:59:07 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.testcases.PDP@17f7cd29]" started-at="2025-09-06T20:59:07 IST" name="beforeMethod" finished-at="2025-09-06T20:59:09 IST" duration-ms="2491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="samsungGalaxyS6PDP()[pri:0, instance:org.example.testcases.PDP@17f7cd29]" started-at="2025-09-06T20:59:09 IST" name="samsungGalaxyS6PDP" finished-at="2025-09-06T20:59:13 IST" duration-ms="3689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- samsungGalaxyS6PDP -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.example.testcases.PDP@17f7cd29]" started-at="2025-09-06T20:59:13 IST" name="afterMethod" finished-at="2025-09-06T20:59:13 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- org.example.testcases.PDP -->
+      <class name="org.example.testcases.SignUp">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.testcases.SignUp@3a52dba3]" started-at="2025-09-06T20:57:45 IST" name="beforeMethod" finished-at="2025-09-06T20:57:49 IST" duration-ms="4055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="singUpWithEmptyFields()[pri:0, instance:org.example.testcases.SignUp@3a52dba3]" started-at="2025-09-06T20:57:49 IST" name="singUpWithEmptyFields" finished-at="2025-09-06T20:57:50 IST" duration-ms="884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singUpWithEmptyFields -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.example.testcases.SignUp@3a52dba3]" started-at="2025-09-06T20:57:50 IST" name="afterMethod" finished-at="2025-09-06T20:57:50 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.testcases.SignUp@3a52dba3]" started-at="2025-09-06T20:57:50 IST" name="beforeMethod" finished-at="2025-09-06T20:57:52 IST" duration-ms="2082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="singUpWithUsedUsername()[pri:0, instance:org.example.testcases.SignUp@3a52dba3]" started-at="2025-09-06T20:57:52 IST" name="singUpWithUsedUsername" finished-at="2025-09-06T20:58:11 IST" duration-ms="18205" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on windows (f5e6177498f78c9762d6bd3c6587d185)] -> id: sign-username] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\harsh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55472}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55472/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f5e6177498f78c9762d6bd3c6587d185]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on windows (f5e6177498f78c9762d6bd3c6587d185)] -> id: sign-username] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\harsh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55472}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55472/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f5e6177498f78c9762d6bd3c6587d185
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at org.example.pages.Page.visibilityWait(Page.java:23)
+at org.example.pages.Page.sendText(Page.java:36)
+at org.example.pages.SignUpPage.signUp(SignUpPage.java:22)
+at org.example.testcases.SignUp.singUpWithUsedUsername(SignUp.java:38)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singUpWithUsedUsername -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.example.testcases.SignUp@3a52dba3]" started-at="2025-09-06T20:58:11 IST" name="afterMethod" finished-at="2025-09-06T20:58:11 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.testcases.SignUp@3a52dba3]" started-at="2025-09-06T20:58:11 IST" name="beforeMethod" finished-at="2025-09-06T20:58:13 IST" duration-ms="1949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validSingUp()[pri:0, instance:org.example.testcases.SignUp@3a52dba3]" started-at="2025-09-06T20:58:13 IST" name="validSingUp" finished-at="2025-09-06T20:58:15 IST" duration-ms="1869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validSingUp -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.example.testcases.SignUp@3a52dba3]" started-at="2025-09-06T20:58:15 IST" name="afterMethod" finished-at="2025-09-06T20:58:15 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- org.example.testcases.SignUp -->
+      <class name="org.example.testcases.Cart">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.testcases.Cart@7d8704ef]" started-at="2025-09-06T20:59:13 IST" name="beforeMethod" finished-at="2025-09-06T20:59:16 IST" duration-ms="2309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="cartTest()[pri:0, instance:org.example.testcases.Cart@7d8704ef]" started-at="2025-09-06T20:59:16 IST" name="cartTest" finished-at="2025-09-06T20:59:31 IST" duration-ms="15432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.example.testcases.Cart@7d8704ef]" started-at="2025-09-06T20:59:31 IST" name="afterMethod" finished-at="2025-09-06T20:59:31 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- org.example.testcases.Cart -->
+      <class name="org.example.testcases.Login">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.testcases.Login@bccb269]" started-at="2025-09-06T20:58:15 IST" name="beforeMethod" finished-at="2025-09-06T20:58:17 IST" duration-ms="2256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginWithEmptyFields()[pri:0, instance:org.example.testcases.Login@bccb269]" started-at="2025-09-06T20:58:17 IST" name="loginWithEmptyFields" finished-at="2025-09-06T20:58:18 IST" duration-ms="864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithEmptyFields -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.example.testcases.Login@bccb269]" started-at="2025-09-06T20:58:18 IST" name="afterMethod" finished-at="2025-09-06T20:58:18 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.testcases.Login@bccb269]" started-at="2025-09-06T20:58:18 IST" name="beforeMethod" finished-at="2025-09-06T20:58:21 IST" duration-ms="2347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginWithInvalidUsername()[pri:0, instance:org.example.testcases.Login@bccb269]" started-at="2025-09-06T20:58:21 IST" name="loginWithInvalidUsername" finished-at="2025-09-06T20:58:22 IST" duration-ms="1888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidUsername -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.example.testcases.Login@bccb269]" started-at="2025-09-06T20:58:22 IST" name="afterMethod" finished-at="2025-09-06T20:58:23 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.testcases.Login@bccb269]" started-at="2025-09-06T20:58:23 IST" name="beforeMethod" finished-at="2025-09-06T20:58:25 IST" duration-ms="2279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginWithValidUsernameAndInvalidPassword()[pri:0, instance:org.example.testcases.Login@bccb269]" started-at="2025-09-06T20:58:25 IST" name="loginWithValidUsernameAndInvalidPassword" finished-at="2025-09-06T20:58:29 IST" duration-ms="3667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidUsernameAndInvalidPassword -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.example.testcases.Login@bccb269]" started-at="2025-09-06T20:58:29 IST" name="afterMethod" finished-at="2025-09-06T20:58:29 IST" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.testcases.Login@bccb269]" started-at="2025-09-06T20:58:29 IST" name="beforeMethod" finished-at="2025-09-06T20:58:31 IST" duration-ms="2073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="logout()[pri:0, instance:org.example.testcases.Login@bccb269]" started-at="2025-09-06T20:58:31 IST" name="logout" finished-at="2025-09-06T20:58:35 IST" duration-ms="4715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.example.testcases.Login@bccb269]" started-at="2025-09-06T20:58:35 IST" name="afterMethod" finished-at="2025-09-06T20:58:36 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:org.example.testcases.Login@bccb269]" started-at="2025-09-06T20:58:36 IST" name="beforeMethod" finished-at="2025-09-06T20:58:38 IST" duration-ms="2118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validLogin()[pri:0, instance:org.example.testcases.Login@bccb269]" started-at="2025-09-06T20:58:38 IST" name="validLogin" finished-at="2025-09-06T20:58:43 IST" duration-ms="4804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.example.testcases.Login@bccb269]" started-at="2025-09-06T20:58:43 IST" name="afterMethod" finished-at="2025-09-06T20:58:43 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- org.example.testcases.Login -->
+    </test> <!-- D:/004_Projects/Selenium/IntelliJ IDEA/Selenium_Maven_demoblaze-SandBox_001 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
